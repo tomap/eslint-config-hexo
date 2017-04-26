@@ -10,7 +10,7 @@
   ],
   "main": "eslint.js",
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
-  "contributors": ["Abner Chou <hi@abnerchou.me> (http://abnerchou.me)"],
+  "contributors": ["Abner Chou <hi@abnerchou.me> (http://abnerchou.me)", "Thomas Piart (https://tpî.eu)"],
   "license": "MIT",
   "dependencies": {
     "eslint":"^3.19.0",
